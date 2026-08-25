@@ -17,7 +17,7 @@
 // else{
 //     console.log("Fail");
 // }
-const p=89;
+const p=93;
 if(p>=90 && p<=100){
     console.log("A++")
 }
