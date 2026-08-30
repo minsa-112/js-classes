@@ -1,4 +1,4 @@
-let day ="3";
+let day = "7";
 switch (day) {
     case '1':
         console.log("monday");
@@ -7,7 +7,7 @@ switch (day) {
     case '2':
         console.log("tuesday");
         break;
-     case '3':
+    case '3':
         console.log("wednesday");
         break;
     case '4':
@@ -26,6 +26,6 @@ switch (day) {
         console.log("sunday");
         break;
 
-        default:
-            console.log("invalid number!");
+    default:
+        console.log("invalid number!");
 }
