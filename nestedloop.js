@@ -13,23 +13,25 @@
 //     }
 // }
 
-let w="5";
-for(let a=1;a<=5;a++){
-    let hint="";
-    for(let b=1;b<=5;b++){
-        if(b<=a){
-            hint+="#"
-        }
-    }
-    console.log(hint)
-}
-let s="5";
-for(let e=1;e<=5;e++){
-    let output="";
-    for(let d=1;d<=5;d++){
-        if(d>=e){
-            output+="#"
-    }
-}
-    console.log(output)
-}
+// let w="5";
+// for(let a=1;a<=5;a++){
+//     let hint="";
+//     for(let b=1;b<=5;b++){
+//         if(b<=a){
+//             hint+="#"
+//         }
+//     }
+//     console.log(hint)
+// }
+// let s="5";
+// for(let e=1;e<=5;e++){
+//     let output="";
+//     for(let d=1;d<=5;d++){
+//         if(d>=e){
+//             output+="#"
+//     }
+// }
+//     console.log(output)
+// }
+// multiplication
+ 
