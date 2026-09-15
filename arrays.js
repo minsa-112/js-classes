@@ -13,11 +13,3 @@
 //         console.log(twoarray);
 //     }
 // }
-// a reusable block of code to perform a specific tasks 
-function sum(a,b) //value parametor
-{
-    console.log(`sum : ${a+b}`); //block of code
-    
-}
-sum(44,66) //function call 
-// (argoment)
